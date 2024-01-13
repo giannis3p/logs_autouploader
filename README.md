@@ -1,2 +1,2 @@
 # dps_report_uploader
-automatically upload gw logs
+a tool that autouploads logs because the existing tools annoy me
